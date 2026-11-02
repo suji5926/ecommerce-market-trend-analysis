@@ -72,3 +72,13 @@ Data cleaning, SQL querying, exploratory data analysis, Pandas, business metric 
 ## Conclusion
 
 This project demonstrates an end-to-end approach to analyzing e-commerce data and converting transactional records into business-focused analysis using commonly used data analytics tools.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50766e1e-b3d8-4088-86ba-64a1649bb8c2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a34dbb44-a8e8-4191-b301-2d640bd3da66" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a04e4c8a-4f4c-4061-bf67-8b97246817a9" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b65e16db-f60d-4913-977f-e432d9ef64e2" />
+
+
