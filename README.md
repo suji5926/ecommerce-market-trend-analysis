@@ -73,12 +73,15 @@ Data cleaning, SQL querying, exploratory data analysis, Pandas, business metric 
 
 This project demonstrates an end-to-end approach to analyzing e-commerce data and converting transactional records into business-focused analysis using commonly used data analytics tools.
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50766e1e-b3d8-4088-86ba-64a1649bb8c2" />
+<img width="1124" height="733" alt="Screenshot (4155)" src="https://github.com/user-attachments/assets/7eab76ae-27b8-48ab-96a1-ba016542745c" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a34dbb44-a8e8-4191-b301-2d640bd3da66" />
+<img width="1061" height="767" alt="Screenshot (4156)" src="https://github.com/user-attachments/assets/5991b13c-2be0-4d44-9ee1-bb5b542d85df" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a04e4c8a-4f4c-4061-bf67-8b97246817a9" />
+<img width="796" height="740" alt="Screenshot (4157)" src="https://github.com/user-attachments/assets/8a164f48-818b-4c01-b196-87e0b5ee16ea" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b65e16db-f60d-4913-977f-e432d9ef64e2" />
+<img width="1187" height="733" alt="Screenshot (4158)" src="https://github.com/user-attachments/assets/228c6a22-f2b8-4d19-ae5d-30d432dd27a6" />
+
+
+
 
 
